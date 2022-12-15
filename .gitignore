@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### ARCHIVOS DE VARIABLES DE ENTORNO ###
+.env
